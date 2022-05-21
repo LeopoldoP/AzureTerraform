@@ -33,8 +33,8 @@ resource "azurerm_windows_virtual_machine" "vmclient02" {
   resource_group_name   = azurerm_resource_group.RG.name
   location              = azurerm_resource_group.RG.location
   size                  = "Standard_B2ms"
-  admin_username        = "leopoldo.cardoso"
-  admin_password        = "pcardoso@6801"
+  admin_username        = "Digite_Seu_Usuario"
+  admin_password        = "Digite_Sua_Senha"
   network_interface_ids = [azurerm_network_interface.NICCLIENT02.id]
 
   source_image_reference {
