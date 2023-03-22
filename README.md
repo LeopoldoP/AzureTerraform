@@ -26,6 +26,20 @@ Note: Importante lembrar que todos os nomes atribuidos podem ser modificados.
 
  ## Infraestrutura dos diretórios
 
+  AzureTerraform
+    ├── backend.tf
+    ├── network.tf
+    ├── nic.tf
+    ├── nsg.tf
+    ├── pip.tf
+    ├── provider.tf
+    ├── README.md
+    ├── rg.tf
+    ├── storage.tf
+    ├── vmclient.tf
+    └── vmserver.tf
+
+
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
