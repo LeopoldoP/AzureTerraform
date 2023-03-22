@@ -24,6 +24,8 @@ Segue descrição dos recursos que serão criados:
 
 Note: Importante lembrar que todos os nomes atribuidos podem ser modificados.
 
+ ## Infraestrutura dos diretórios
+
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
